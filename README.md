@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afnan Alzahrani</h1>
-<h3 align="center">Graduated from Al-Baha University with a Bachelor's degree in Computer Science, interested in data science, artificial intelligence, and data analysis.</h3>
+<h3 align="center">Graduated from Al-Baha University with a Bachelor's degree in Computer Science, interested in data science,AI,Data analysis,Data visualization,Python .</h3>
 
 - 📫 How to reach me **Afnan57015@icloud.com**
 
