@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afnan Alzahrani</h1>
 
-<h3 align="center">Bachelor's degree in Computer Science, interested in data science,AI,Data analysis,Data visualization,Python .</h3>
+<h3 align="center"> Interested in Machine Learning, Artificial Intelligence, and Data Science.</h3>
 
 - 📫 How to reach me **Afnan57015@icloud.com**
 
