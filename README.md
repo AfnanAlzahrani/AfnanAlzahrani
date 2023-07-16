@@ -2,7 +2,7 @@
 
 <h3 align="center"> Interested in Machine Learning, Artificial Intelligence, and Data Science.</h3>
 
-- 📫 How to reach me **Afnan57015@icloud.com**
+- 📫 How to reach me **afnanalzahrani6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
